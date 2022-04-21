@@ -4,10 +4,10 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ParkingControlApplicationTests {
+public class ParkingControlApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public static void contextLoads() {
 	}
 
 }
